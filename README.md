@@ -3,14 +3,14 @@ WARNING! This script usually does not work properly with LXD/LXC Containers, ple
 
 ## For Ubuntu/Debian
 ```
-wget https://raw.githubusercontent.com/Xcyth/firewall/master/set.sh && chmod +x set.sh && ./set.sh
+wget https://raw.githubusercontent.com/Zinedinarnaut/DDOS-PROTECTION/master/set.sh && chmod +x set.sh && ./set.sh
 ```
 
 After running the script, IPTables custom configuration was applied. If IPTables is not installed on your OS, it will be installed when running the script. 
 
 ## Remove
 ```
-wget https://raw.githubusercontent.com/Xcyth/firewall/master/remove.sh && chmod +x remove.sh && ./remove.sh
+wget https://raw.githubusercontent.com/Zinedinarnaut/DDOS-PROTECTION/master/remove.sh && chmod +x remove.sh && ./remove.sh
 ```
 
 ### What does this script do?
